@@ -3,7 +3,7 @@
 - 💻 I’m interested in Coding and development.
 - 👀 I’m currently learning C++ with DSA and web development.
 - 📫 How to reach me ...
-     LinkedIn - https://www.linkedin.com/in/aditya-kumar-36161a216
+     LinkedIn - https://www.linkedin.com/in/aditya0679/
      Telegram - @adityakr06
      Discord - Aditya_06#0600
 <!---
