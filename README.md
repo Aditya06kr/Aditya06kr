@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Aditya Kumar(@Aditya06kr)
-- 🎓 I'm pursuing Btech from DSCE Bangalore in CSE and currently in my 2nd sem.
-- 💻 I’m interested in Coding and development.
-- 👀 I’m currently learning DSA with C++ and Web development.
+- 🎓 I'm pursuing Btech from DSCE Bangalore in CSE and currently in my 2nd year.
+- 💻 I’m interested in Competitive Programming.
 - 📫 How to reach me ...
      LinkedIn - https://www.linkedin.com/in/aditya0679/
 - 🔗 My Coding Profiles - https://linktr.ee/aditya0679
